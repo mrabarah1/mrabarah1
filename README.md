@@ -7,7 +7,7 @@ I'm a Data Engineer, Content Creator, and Community Engineer . I'm passionate ab
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Data Engineering](https://altschoolafrica.com/schools/data) Class of 2025.
+- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Data Engineering]([https://altschoolafrica.com/schools/data](https://data.altschoolafrica.com/programs/data-engineering)) Class of 2025.
 - 🌱 I’m currently learning Python, SQL, Data Engineering tools.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Data Engineering role (Intern or Junior level).

@@ -2,7 +2,7 @@
 
 
 
-I'm a Data Engineer, Content Creator, and Community Engineer . I'm passionate about sharing knowledge, documentation, data engineering, and others. , build useful [open-source projects]((https://github.com/mrabarah1/crypto_coingecko)), speak at some meetups/conferences, build technical communities...
+I'm a Data Engineer, Content Creator, and Community Engineer . I'm passionate about sharing knowledge, documentation, data engineering, and others. , build useful [open-source projects]([https://github.com/mrabarah1/crypto_coingecko]), speak at some meetups/conferences, build technical communities...
 
 **Here's a quick summary about me**:
 
